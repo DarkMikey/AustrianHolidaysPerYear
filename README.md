@@ -19,7 +19,7 @@ npx ts-node index.ts
 
 ## Results
 
-2022 was indeed on of the worst - 2006 a dream year.
+2022 was indeed one of the worst - 2006 a dream year.
 
 * 2004: 4; [ 'Maifeiertag', 'Mariä Himmelfahrt', 'Christtag', 'Stefanitag' ] 
 * 2005: 5; [ 'Neujahr', 'Maifeiertag', 'Heiliger Abend', 'Christtag', 'Silvester' ] 
