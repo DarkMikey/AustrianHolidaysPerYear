@@ -1,4 +1,4 @@
-# Feiertagsbewerter
+# MissedAustrianHolidaysPerYear
 
 ## Run
 
@@ -18,6 +18,8 @@ npx ts-node index.ts
 <https://www.wien.gv.at/gogv/l9ogdfeiertagskalender>
 
 ## Results
+
+2022 was indeed on of the worst - 2006 a dream year.
 
 * 2004: 4; [ 'Maifeiertag', 'Mariä Himmelfahrt', 'Christtag', 'Stefanitag' ] 
 * 2005: 5; [ 'Neujahr', 'Maifeiertag', 'Heiliger Abend', 'Christtag', 'Silvester' ] 
